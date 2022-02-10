@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("https://use.typekit.net/yuo7ygk.css");
+
+body {
+	width: auto;
+	
+}
+header {
+	background-color: #F4F2F5;
+	height: 100px;
+	border-bottom: solid 1.5px #2D103C;
+}
+.logo {
+	width: 100px;
+	height: 90px;
+	margin-left: 63px;
+	margin-top: 5px;
+}
